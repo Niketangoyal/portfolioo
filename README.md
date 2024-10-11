@@ -33,6 +33,6 @@ Here are some related projects
 
 
 ## 🔗 Let's Connect
-[![portfolio](https://niketangoyal.github.io/portfolioo/)
-[![linkedin](https://www.linkedin.com/in/niketan-goyal-46ab5122a/)
-[![twitter]([https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chetannada](https://www.linkedin.com/in/niketan-goyal-46ab5122a/))
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://niketangoyal.github.io/portfolioo/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niketan-goyal-46ab5122a/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/chetannada](https://www.linkedin.com/in/niketan-goyal-46ab5122a/))
